@@ -1,9 +1,9 @@
 # Build Up Portfolio
 
 **Student Information**
-* **Name:** [Your Full Name]
-* **Department:** [Your Department]
-* **Matriculation Number:** [Your Matriculation Number]
+* **Name:** Mbuba David
+* **Department:** Computer Science
+* **Matriculation Number:** Uj/ 2024/NS/0881
 
 ---
 
